@@ -9,7 +9,7 @@ Welcome to my digital space! I'm a passionate **Senior Full-Stack Engineer** wit
 - 🔧 Backend-focused full-stack engineer who loves scalable systems and clean architecture.
 - 🌐 Advocate of microservices, cloud-native infrastructure, and secure API design.
 - 🧠 Constant learner — big fan of solving hard problems with elegant solutions.
-- 🧰 Stack: `Node.js`, `TypeScript`, `Go`, `PHP`, `Laravel`, `Vue`, `React`, `GraphQL`, `Docker`, `Kubernetes`, `AWS`.
+- 🧰 Stack: `C#`, `Java`, `C++`, `Node.js`, `TypeScript`, `Go`, `PHP`, `Laravel`, `Vue`, `React`, `GraphQL`, `Docker`, `Kubernetes`, `AWS`.
 
 ---
 
