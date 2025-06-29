@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gabriel Santos
+# 👋 Hi there, I'm Benjamin Paddock
 
 Welcome to my digital space! I'm a passionate **Senior Full-Stack Engineer** with over a decade of experience designing, building, and scaling systems that power high-impact applications — from real-time authentication to e-learning platforms, and everything in between.
 
